@@ -1,0 +1,7 @@
+Syntax
+ 
+InstallUtil.exe + Your copied path + \your service name + .exe
+ 
+Our path
+ 
+InstallUtil.exe Path\bin\Debug\MyFirstService.exe
